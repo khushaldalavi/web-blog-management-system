@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card{
+    width: 500px;
+    /* background-color: aqua; */
+}
+
+#adminHomeContainer{
+    height: 50vh;
+}
+
+.dropdown-menu .dropdown-item:hover{
+    background-color: orange;
+}
