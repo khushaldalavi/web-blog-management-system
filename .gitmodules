@@ -1,0 +1,3 @@
+[submodule "spring-boot/BlogSphere"]
+	path = spring-boot/BlogSphere
+	url = https://github.com/khushaldalavi/web-blog-management-system.git
